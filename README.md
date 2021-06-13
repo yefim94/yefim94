@@ -9,5 +9,5 @@
 - 💬 Ask me about CSS topics
 - 💻I'm currently mastered CSS, HTML, BOOTSRAP, git, js, and typescript
 - 📫 How to reach me: yefim94@yahoo.com
-- 😄 Pronouns: he/them/tehy
+- 😄 Pronouns: he
 - ⚡ Fun fact: ... i love tacos
