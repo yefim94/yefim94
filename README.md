@@ -1,16 +1,13 @@
-### Hi there 👋
+ Hi there 👋
 
-<!--
-**yefim94/yefim94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on many javascript projects
+- 🌱 I’m currently learning in depth javascript, and its many cool frameworks
+- 👯 I’m looking to collaborate on a mobile app someday
+- 🤔 I’m looking for help with javascript algorithms
+- 💬 Ask me about CSS topics
+- 💻I'm currently mastered CSS, HTML, BOOTSRAP, git, js, and typescript
+- 📫 How to reach me: yefim94@yahoo.com
+- 😄 Pronouns: he/them/tehy
+- ⚡ Fun fact: ... i love tacos
