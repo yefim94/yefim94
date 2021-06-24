@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on many javascript projects
+- 🔭 I’m currently working on many javascript projects with react
 - ⭐️ My goals are to start learning backend technologies such as firebase, sql , php, and node.js
 - 🌱 I’m currently learning javascript's many cool frameworks and tailwind.css
 - 👯 I’m looking to collaborate on a mobile app someday
