@@ -13,4 +13,4 @@
 - 💻I'm currently efficient in CSS, HTML, bootstrap , git, js, and typescript
 - 📫 How to reach me: yefim94@yahoo.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: ... i love tacos
+- ⚡ Fun fact: ... https://dribbble.com/YefimBlokh here is my dribble !
