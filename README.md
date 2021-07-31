@@ -6,11 +6,11 @@
 
 
 - 🔭 I’m currently working on many javascript projects with react
-- ⭐️ My goals are to start learning backend technologies such as firebase, sql , php, and node.js
-- 🌱 I’m currently learning javascript's many cool frameworks and tailwind.css
+- ⭐️ My goals are to start learning backend technologies such as firebase, sql , php, and node.js, as well as AI with tensorflow
+- 🌱 I’m currently learning reactNative and redux.
 - 👯 I’m looking to collaborate on a mobile app someday
-- 💬 Ask me about CSS topics
-- 💻I'm currently efficient in CSS, HTML, bootstrap , git, js, and typescript
+- 💬 Ask me about JS topics
+- 💻I'm currently efficient in CSS, HTML, bootstrap , git, js, react, reactNative, and UI/UX design
 - 📫 How to reach me: yefim94@yahoo.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: ... https://dribbble.com/YefimBlokh here is my dribble !
