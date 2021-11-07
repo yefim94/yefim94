@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on many javascript projects with react
-- ⭐️ My goals are to start learning backend technologies such as firebase, sql , php, and node.js, as well as AI with tensorflow
-- 🌱 I’m currently learning reactNative and redux.
+- 🔭 I’m currently working on many firebase and nodejs projects
+- ⭐️ My goals are to start learning backend technologies such as firebase firestore, sql , php, and node.js, as well as AI with tensorflow
+- 🌱 I’m currently learning firebase and redux.
 - 👯 I’m looking to collaborate on a mobile app someday
 - 💬 Ask me about JS topics
 - 💻I'm currently efficient in CSS, HTML, bootstrap , git, js, react, reactNative, and UI/UX design
