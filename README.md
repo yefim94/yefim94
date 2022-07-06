@@ -5,8 +5,8 @@
 
 
 
-- 🔭 I’m currently working on many firebase and nodejs projects
-- ⭐️ My goals are to start learning backend technologies such as firebase firestore, sql , php, and node.js, as well as AI with tensorflow
+- 🔭 I’m currently working on many python and c projects
+- ⭐️ My goals are to start learning general purpose programing languages like c and python
 - 🌱 I’m currently learning firebase and redux.
 - 👯 I’m looking to collaborate on a mobile app someday
 - 💬 Ask me about JS topics
